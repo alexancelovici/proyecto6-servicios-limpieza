@@ -84,7 +84,7 @@ Edit
 
 ## 🚀 Despliegue
 
-El backend puede ser desplegado en [Render.com](https://render.com)  
+El backend puede ser desplegado en [Render.com](https://render.com)  https://proyecto6-2pkw.onrender.com
 Y la base de datos en [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 ---
