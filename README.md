@@ -91,5 +91,5 @@ Y la base de datos en [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 ## 📬 Autor
 
-- Alex Celovici  
+- Alex Ancelovici  
 - Proyecto 6 – Bootcamp Full Stack (UDD)
